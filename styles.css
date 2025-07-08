@@ -1,0 +1,17 @@
+* {
+    font-family: Helvetica;
+}
+
+html, body {
+    height: 100%;
+}
+
+.navbar {
+    display: flex;
+    padding: 1rem;
+    justify-content: right;
+}
+
+.nav-links {
+    text-decoration: none;
+}
